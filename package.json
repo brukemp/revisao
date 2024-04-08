@@ -1,0 +1,16 @@
+{
+  "name": "projeto-api",
+  "version": "1.0.0",
+  "description": "refazendo-o-projeto-do-renan",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Bruna-Kempinsk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
